@@ -1,0 +1,8 @@
+title: Paperwork
+description: Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+google_analytics: UA-38443799-3
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
